@@ -1,4 +1,4 @@
 # Deep-Learning
-This project was created by shAI academy and sloved by me.
-shAI Excersises lvl 2
+These Projects were created as applications with SHAI Club for Data Science course.
+Clustering and Deep Learning.
 
